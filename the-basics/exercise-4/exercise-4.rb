@@ -3,4 +3,4 @@
 
 movie_dates = [1992, 1994, 2012, 2016]
 
-movie_dates.each {|date| puts date}
+movie_dates.each { |date| puts date }

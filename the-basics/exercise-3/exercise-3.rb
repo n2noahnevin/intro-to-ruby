@@ -9,4 +9,4 @@ movie_titles = {
   argo: 2012,
   moonlight: 2016 }
 
-movie_titles.each {|key, value| puts value}
+movie_titles.each { |key, value| puts value }
